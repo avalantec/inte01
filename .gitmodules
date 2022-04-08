@@ -1,0 +1,4 @@
+[submodule "payment_bac"]
+	path = payment_bac
+	url = https://github.com/stefanjaw/payment_bac.git
+	branch = odoov14
